@@ -1,6 +1,10 @@
 # my_first_app
 
 A new Flutter project.
+This is my first time build flutter project.
+Actually this is a simple game that i made.
+here is the pic:
+![Actual game screen](https://raw.githubusercontent.com/Mman7/myfirstapp/main/actual%20game%20%20yeet.jpg)
 
 ## Getting Started
 
